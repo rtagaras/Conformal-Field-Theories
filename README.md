@@ -7,3 +7,5 @@ Qualls_Problems.pdf contains solutions to some, but not all of, the problems giv
 Exercises.pdf contains solutions to the problem set written by Dalimil Mazac as part of the 2018 Simons Bootstrap Collaboration summer school.
 
 Pufu.pdf contains the solution to one of the exercises in the problem set written by Silviu Pufu as part of the 2017 Simons Bootstrap Collaboration summer school.
+
+HW4.pdf contains the solution to an exercise assigned during a string theory course taught at Stony Brook University by Peter Van Nieuwenhuizen, Martin Rocek, and Warren Siegel.
